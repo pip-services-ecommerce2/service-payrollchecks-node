@@ -1,0 +1,9 @@
+/node_modules
+/npm-debug.log
+/.idea
+/data/payroll_checks.test.json
+/data/payroll_checks.json
+/obj/test
+/package-lock.json
+/docker/id_rsa*
+/docker/.npmrc
